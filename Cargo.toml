@@ -1,0 +1,9 @@
+[package]
+name = "znai-rust-showcase"
+version = "0.1.0"
+edition = "2021"
+description = "Calculates changes in Elo ratings"
+license-file = "LICENSE"
+
+[dependencies]
+clap = {version = "4.3.1", features = ["derive"]}
