@@ -11,7 +11,7 @@ Create a `docs` directory. It will be a place where your documentation resides. 
 
 In the `docs` directory create a `pom.xml` file with the znai plugin
 
-:include-file: pom.xml {commentsType: "inline", lang: "xml"}
+:include-xml: pom.xml {paths: ["project.build[0].plugins.plugin.configuration[0].docId"]}
 
 
 Note: Make sure that the `docId` is the same as the name of your project.
