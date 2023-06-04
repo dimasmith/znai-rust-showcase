@@ -1,6 +1,6 @@
 # Znai rust showcase
 
-This project is a showcase for using [Znai] to provide a documentation for non-java projects.
+This project is a showcase for using [Znai](https://testingisdocumenting.org/znai) to provide a documentation for non-java projects.
 It contains instructions and example actions to build Znai documentation and publish it as GitHub pages.
 
 ## What is Znai?
