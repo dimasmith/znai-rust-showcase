@@ -10,3 +10,8 @@ It uses markdown with extensions to build awesome documentation websites.
 Znai is focused on software projects.
 It has multiple handy features to work with source code, diagrams, OpenAPI specs, and other things. 
 You can even run a presentation from the generated Znai pages.
+
+## Where can I see the results
+
+The documentation of this repository is published as [GitHub pages](https://dimasmith.github.io/znai-rust-showcase/tutorial/create-documentation). 
+You will find a tutorial on how to configure and publish Znai documentation for your project.
