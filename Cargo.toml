@@ -6,4 +6,4 @@ description = "Calculates changes in Elo ratings"
 license-file = "LICENSE"
 
 [dependencies]
-clap = {version = "4.3.10", features = ["derive"]}
+clap = {version = "4.3.11", features = ["derive"]}
