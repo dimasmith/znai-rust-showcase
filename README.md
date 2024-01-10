@@ -1,5 +1,7 @@
 # Znai rust showcase
 
+[![Publish Documentation](https://github.com/dimasmith/znai-rust-showcase/actions/workflows/znai-pages-deploy.yaml/badge.svg)](https://github.com/dimasmith/znai-rust-showcase/actions/workflows/znai-pages-deploy.yaml)
+
 This project is a showcase for using [Znai](https://testingisdocumenting.org/znai) to provide a documentation for non-java projects.
 It contains instructions and example actions to build Znai documentation and publish it as GitHub pages.
 
