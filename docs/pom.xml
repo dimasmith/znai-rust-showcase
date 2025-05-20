@@ -13,7 +13,7 @@
             <plugin>
                 <groupId>org.testingisdocumenting.znai</groupId>
                 <artifactId>znai-maven-plugin</artifactId>
-                <version>1.74.2</version>
+                <version>1.76</version>
                 <configuration>
                     <!-- The docId attribute must be the same as your GitHub project name -->
                     <docId>znai-rust-showcase</docId>
