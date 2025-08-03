@@ -27,8 +27,8 @@ fn main() {
     let result = args.result;
     let (new_white_rating, new_black_rating) =
         calculate_new_ratings(white_rating, black_rating, GameOutcome::from(result));
-    println!("Before game:\t{}\t{}", white_rating, black_rating);
-    println!("After game: \t{}\t{}", new_white_rating, new_black_rating);
+    println!("Before game:\t{white_rating}\t{black_rating}");
+    println!("After game: \t{new_white_rating}\t{new_black_rating}");
 }
 
 impl Display for GameResult {
